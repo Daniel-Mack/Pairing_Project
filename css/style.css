@@ -3,8 +3,14 @@ h1 {
   text-align: center;
 }
 
-.favorite-website {
+
+p.favorite-website {
   color: LightSeaGreen;
+}
+
+
+#page {
+  text-align: center;
 }
 
 div.developer {
