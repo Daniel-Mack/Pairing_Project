@@ -21,3 +21,16 @@ div.developer {
   padding: 6px;
   text-align: center;
 }
+
+.food {
+  list-style-position: inside;
+  color: lightSeaGreen;
+  width: 200px;
+
+  text-align: center !important;
+  margin: auto !important;
+
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 6px;
+}
